@@ -1,0 +1,19 @@
+/* 
+
+Theme Name:     BrideAndGroom
+
+Theme URI:      http: //example.com/ 
+
+Description:    Child theme based on Organic Magazine 
+
+Author:         Sarah Potter
+
+Author URI:     http: //sarahpotter.net
+
+Template:       organic_magazine 
+
+Version:        1.0 
+
+*/
+
+@import url("../organic_magazine/style.css"); 
