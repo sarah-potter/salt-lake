@@ -21,19 +21,8 @@ Version:        1.0
 @import url("../organic_magazine/style.css"); 
 
 
-@import url(http://fonts.googleapis.com/css?family=Grand+Hotel);
+@import url(http://fonts.googleapis.com/css?family=Elsie:400,900);
 
-	
-	h1 {
-	color: #302001;
-	font-size: 24px;
-	font-family: 'Grand Hotel', cursive;
-	font-weight: normal;
-	text-transform: uppercase;
-	margin: 5px 0px 5px 0px;
-	padding: 5px 0px 5px 0px;
-	line-height: 28px;
-	}
 	
 
 /* Here Goes */
@@ -102,9 +91,9 @@ a img {
 h1 {
 	color: #302001;
 	font-size: 24px;
-	font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	font-family: 'Elsie', cursive;
 	font-weight: normal;
-	text-transform: uppercase;
+	text-transform:  capitalize;
 	margin: 5px 0px 5px 0px;
 	padding: 5px 0px 5px 0px;
 	line-height: 28px;
@@ -112,7 +101,7 @@ h1 {
 h2 {
 	color: #302001;
 	font-size: 22px;
-	font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	font-family: 'Elsie', cursive;
 	font-weight: normal;
 	text-transform: uppercase;
 	margin: 5px 0px 5px 0px;
@@ -223,7 +212,7 @@ h4 a:active, h5 a:active, h6 a:active {
 	font-size: 28px;
 	font-weight: normal;
 	line-height: 32px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 	margin: 0px 0px 5px 0px;
 	padding: 0px 0px 0px 0px;
 	overflow: hidden;
@@ -480,8 +469,9 @@ div.anythingSlider.rtl .thumbNav {
 	color: #666666;
 	width: 978px;
 	height: 30px;
-	font-size: 10px;
-	font-family: Arial, Helvetica, sans-serif;
+	font-size: .77em;
+	font-family: 'Elsie', cursive;
+	font-weight: 400;
 	text-transform: uppercase;
 	margin: 15px auto 15px;
 	padding: 0px 0px 0px 0px;
@@ -693,12 +683,13 @@ li.sfHover > a > .sf-sub-indicator {
 	}
 #homepage h2 {
 	color: #302001;
-	text-transform: uppercase;
-	height: 22px;
-	line-height: 22px;
+	text-transform: capitalize;
+	height: 20px;
+	line-height: 20px;
 	margin: 0px 0px 2px 0px;
 	padding: 0px 1px 0px 1px;
-	overflow: hidden;
+	overflow: ellipsis;
+	font-size: 1.5em;
 	}
 #homepage h2 a, #homepage h2 a:visited {
 	color: #302001;
@@ -1044,7 +1035,7 @@ blockquote {
 .postmeta {
 	background: #f5f3ee;
 	font-size: 11px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 	margin: 10px 0px 20px 0px;
 	padding: 5px 10px 5px 10px;
 	border: 1px solid #e9e6e0;
@@ -1295,14 +1286,14 @@ img.alignleft {
 #sidebar_right .widget h4,
 #sidebar_left .widget h4 {
 	color: #302001;
-	font-size: 12px;
-	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+	font-family: 'Elsie', cursive;
 	font-weight: bold;
 	line-height: 18px;
 	letter-spacing: -0.1px;
 	margin: 0px 0px 6px 0px;
 	padding: 0px 0px 2px 0px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 	text-align: left;
 	margin: 0px 0px 0px 0px;
 	border-bottom: 1px solid #e9e6e0;
