@@ -17,3 +17,18 @@ Version:        1.0
 */
 
 @import url("../organic_magazine/style.css"); 
+
+
+@import url(http://fonts.googleapis.com/css?family=Grand+Hotel);
+
+	
+	h1 {
+	color: #333333;
+	font-size: 24px;
+	font-family: 'Grand Hotel', cursive;
+	font-weight: normal;
+	text-transform: uppercase;
+	margin: 5px 0px 5px 0px;
+	padding: 5px 0px 5px 0px;
+	line-height: 28px;
+	}
