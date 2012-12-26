@@ -231,6 +231,7 @@ h4 a:active, h5 a:active, h6 a:active {
 	font-weight: normal;
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 0px 0px;
+	font-family: 'Elsie', cursive;
 	}
 #homeslider p {
 	margin: 0px 0px 0px 0px;
@@ -686,7 +687,7 @@ li.sfHover > a > .sf-sub-indicator {
 #homepage h2 {
 	color: #302001;
 	text-transform: capitalize;
-	height: 20px;
+	height: 60px;
 	line-height: 20px;
 	margin: 0px 0px 2px 0px;
 	padding: 0px 1px 0px 1px;
@@ -762,7 +763,7 @@ li.sfHover > a > .sf-sub-indicator {
 #homepage .excerpt {
 	float: left;
 	display: block;
-	max-height: 88px;
+	max-height: 63px;
 	margin: 5px 0px;
 	padding: 0px;
 	overflow: hidden;
